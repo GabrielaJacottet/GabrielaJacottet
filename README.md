@@ -1,6 +1,5 @@
 
-    [![HitCount](https://hits.dwyl.com/GabrielaJacottet/GabrielaJacottet.svg?style=flat-square)](http://hits.dwyl.com/GabrielaJacottet/GabrielaJacottet)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GabrielaJacottet&color=blue" alt="Profile views"/> </p>
 
 <div>
   <a href="https://github.com/GabrielaJacottet">
