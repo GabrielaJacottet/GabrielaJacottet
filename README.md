@@ -1,6 +1,6 @@
-<div>
+
     [![HitCount](https://hits.dwyl.com/GabrielaJacottet/GabrielaJacottet.svg?style=flat-square)](http://hits.dwyl.com/GabrielaJacottet/GabrielaJacottet)
- </div>
+
 
 <div>
   <a href="https://github.com/GabrielaJacottet">
