@@ -1,5 +1,5 @@
 <div>
-  https://komarev.com/ghpvc/?username=GabrielaJacottet&color=green
+    [![HitCount](https://hits.dwyl.com/GabrielaJacottet/GabrielaJacottet.svg?style=flat-square)](http://hits.dwyl.com/GabrielaJacottet/GabrielaJacottet)
  </div>
 
 <div>
